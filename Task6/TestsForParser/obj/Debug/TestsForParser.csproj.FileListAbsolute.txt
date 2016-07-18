@@ -1,0 +1,8 @@
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\TestsForParser\bin\Debug\TestsForParser.dll
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\TestsForParser\bin\Debug\TestsForParser.pdb
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\TestsForParser\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\TestsForParser\bin\Debug\Parser.dll
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\TestsForParser\bin\Debug\Parser.pdb
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\TestsForParser\obj\Debug\TestsForParser.csprojResolveAssemblyReference.cache
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\TestsForParser\obj\Debug\TestsForParser.dll
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\TestsForParser\obj\Debug\TestsForParser.pdb

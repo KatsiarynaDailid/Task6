@@ -1,0 +1,8 @@
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\ForCheck\bin\Debug\ForCheck.exe.config
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\ForCheck\bin\Debug\ForCheck.exe
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\ForCheck\bin\Debug\ForCheck.pdb
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\ForCheck\bin\Debug\Parser.dll
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\ForCheck\bin\Debug\Parser.pdb
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\ForCheck\obj\Debug\ForCheck.csprojResolveAssemblyReference.cache
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\ForCheck\obj\Debug\ForCheck.exe
+C:\Users\Katsiaryna_Dailid\Documents\projects\Task6\ForCheck\obj\Debug\ForCheck.pdb
